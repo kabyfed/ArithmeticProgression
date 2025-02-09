@@ -1,5 +1,5 @@
 {
-    "name": "kabyfed/task01",
+    "name": "kabyfed/progression",
     "autoload": {
         "psr-4": {
             "Kabyfed\\Task01\\": "src/"
