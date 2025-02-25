@@ -31,10 +31,13 @@
 ---
 ## Как запустить игру
 
-Запустите скрипт в терминале:
+Запустите dev сервер в терминале:
 ```sh
-php bin/progression
+php -S localhost:3000 -t public
 ```
+
+Передейдите по на http://localhost:3000/
+
 ---
 ## Правила игры
 
@@ -62,7 +65,7 @@ php bin/progression
 ---
 
 ## Требования
-- [ссылка на packagist](https://packagist.org/packages/kabyfed/ArithmeticProgression)
+- [ссылка на packagist](https://packagist.org/packages/kabyfed/progression)
 - [ссылка на Git](https://github.com/kabyfed/ArithmeticProgression)
 
 
@@ -76,4 +79,3 @@ php bin/progression
 ## Лицензия
 
 Этот проект распространяется под лицензией MIT.
-

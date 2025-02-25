@@ -2,12 +2,8 @@
     "name": "kabyfed/progression",
     "autoload": {
         "psr-4": {
-            "Kabyfed\\Task01\\": "src/"
-        },
-        "files": [
-            "src/Controller.php",
-            "src/View.php"
-        ]
+            "kabyfed\\Progression\\": "src/"
+        }
     },
     "bin": [
         "bin/progression"
